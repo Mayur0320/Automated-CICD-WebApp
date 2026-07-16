@@ -1,4 +1,4 @@
-# 🚀 Automated CI/CD Pipeline for Web Application
+#  Automated CI/CD Pipeline for Web Application
 
 ## Technologies Used
 
